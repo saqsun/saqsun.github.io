@@ -1,0 +1,17 @@
+{
+    "tutorial1": "HOLD = SPEED",
+    "tutorial2": "RELEASE = AIR",
+    "tutorial3": "HOLD = DIVE",
+    "tapToContinue": "TAP TO CONTINUE",
+    "watchAnAdTo": "WATCH AN AD TO",
+    "revive": "REVIVE",
+    "toTheMoon": "TO THE MOON...\n%{multiplayer}",
+    "andBeyond": "... AND BEYOND!\n%{multiplayer}",
+    "smoothLanding": "SMOOTH LANDING\n%{multiplayer}",
+    "smooth": "SMOOTH!\n%{multiplayer}",
+    "shareScore": "Share Score",
+    "inviteFriends": "Invite Friends",
+    "shareScoreText": "My best score is %{bestScore}! Try to beat me!",
+    "inviteFriendsText": "My best score is %{bestScore}! Can you do better?",
+    "comingSoon": "COMING SOON"
+}

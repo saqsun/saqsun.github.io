@@ -1,0 +1,25 @@
+Company logos used to identify employers. Retrieved 2026-10-30.
+Armath uses the former Koreez Games studio logo from its GitHub organization.
+
+ixilix.webp
+https://www.ixilix.com/apple-touch-icon.webp
+
+playrix.webp
+https://playrix.com/favicons/apple-touch-icon.webp
+
+rubyplay.webp
+https://rubyplay.com/wp-content/uploads/2024/12/rubyplay_logo_02_colour_alt.svg
+
+voodoo.webp
+https://framerusercontent.com/images/xoZiIKSWpNiSZyP4dhY0qzZVHc.webp
+
+koreez.webp
+https://avatars.githubusercontent.com/u/17797581?v=4
+
+rockbite.webp
+https://rockbitegames.com/cdn.prod.website-files.com/66df22b822f1ec5446016c92/67203c327f8ecb982058e084_favicon_256px.webp
+
+plexonic.webp
+https://plexonic.com/wp-content/uploads/logo-1.webp
+
+Normalized to 160 × 160 lossless WebP with a 128 × 128 content area, centered on white. Original logo proportions preserved.

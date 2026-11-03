@@ -1,0 +1,56 @@
+Gameplay preview sources, retrieved 2026-10-30.
+Edited into 9-second silent H.264 MP4 loops, 1200x700, 24fps.
+Aspect ratio preserved with blurred fill where needed.
+Dune uses the official mobile trailer; the Play link opens the hosted browser adaptation.
+
+flipper-dunk-3d.mp4
+Page: https://www.crazygames.com/game/flipper-dunk-3d
+Media: https://videos.crazygames.com/flipper-dunk-3d/1/flipper-dunk-3d-landscape-1280x720_30fps.mp4
+
+solitaire-klondike-chronicles.mp4
+Page: https://yandex.ru/games/app/170461
+Media: https://runtime.strm.yandex.ru/videos/vplvjuez43xiybzg2jkw/outputs/bff472b731d912501d9721214df82f.mp4
+
+break-crush.mp4
+Page: https://yandex.ru/games/app/171326
+Media: https://games.s3.yandex.net/videos/171326/marlciamozey7svzwlmuutabo35rp3ne.mp4
+
+dune.mp4
+Page: https://apps.apple.com/us/app/id1291851950
+Media: https://apptrailers.itunes.apple.com/itunes-assets/PurpleVideo123/v4/54/c4/f9/54c4f9fa-53a1-5560-5e80-58fe437dc903/P63107090_default.m3u8
+
+
+Bricks Versus: recorded directly from the local browser build at /projects/games/bricks_versus/index.html on 2026-10-30. 12-second silent H.264 loop, 1200x700, 24fps. Original canvas composited over the game’s CSS gradient; poster extracted from the recording.
+
+roofbot.mp4
+Published Steam gameplay trailer, 10-second excerpt starting at 5s, silent H.264 1200x700 24fps.
+Page: https://store.steampowered.com/app/545660/
+Media: https://video.akamai.steamstatic.com/store_trailers/545660/91043/6616ad61612113134b60bb2ee236f3a689d7606a/1751300158/hls_264_master.m3u8?t=1487343187
+
+parallyzed.mp4
+Published Steam gameplay trailer, 10-second excerpt starting at 5s, silent H.264 1200x700 24fps.
+Page: https://store.steampowered.com/app/545670/
+Media: https://video.akamai.steamstatic.com/store_trailers/545670/99441/455e2b7a476abf988c8b9a8e7e18c1c4db9ed69a/1751300160/hls_264_master.m3u8?t=1492806144
+
+tapventures.mp4
+YouTube gameplay by Handheld Android, selected by the portfolio owner.
+Source: https://www.youtube.com/watch?v=7OUjB7hRSGU
+Excerpt: 90–102s; 1200x700, 24fps, silent H.264. Aspect ratio preserved. Retrieved 2026-10-30.
+
+panda-jam.mp4
+YouTube gameplay by MobileTouchGames, selected by the portfolio owner.
+Source: https://www.youtube.com/watch?v=-Th48zMdHx8
+Excerpt: 30–42s; 1200x700, 24fps, silent H.264. Aspect ratio preserved. Retrieved 2026-10-30.
+
+paint-monsters.mp4
+YouTube gameplay by iGamesView, selected by the portfolio owner.
+Source: https://www.youtube.com/watch?v=VjvibbQtIg4
+Excerpt: 40–52s; 1200x700, 24fps, silent H.264. Aspect ratio preserved. Retrieved 2026-10-30.
+
+Mobile variants (*.mobile.mp4): derived from the matching original preview; 720x420, H.264 CRF 28, 24fps, no audio, fast-start metadata. Generated 2026-10-30.
+
+Poster refresh 2026-10-30: JPEG posters extracted from the first decoded frame of each active desktop MP4 (1200x700), JPEG quality 2. Mobile variants share the same timeline and composition.
+
+Loop polish 2026-10-30: rotated each clip by 12 frames and blended the final 12 frames into the original opening with a 0.5-second crossfade. Mobile encodes and first-frame posters regenerated from the loop masters.
+
+Image optimization 2026-10-30: first-frame JPEG posters converted to WebP at quality 86; dimensions and composition unchanged.

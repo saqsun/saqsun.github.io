@@ -1,0 +1,17 @@
+{
+  "tutorial1": "hold = velocidad",
+  "tutorial2": "liberación = aire",
+  "tutorial3": "hold = inmersión",
+  "tapToContinue": "pulse para continuar",
+  "watchAnAdTo": "ver un anuncio para",
+  "revive": "revivir",
+  "toTheMoon": "A LA LUNA...\n%{multijugador}",
+  "andBeyond": "... ¡Y MÁS ALLÁ!\n%{multijugador}",
+  "smoothLanding": "ATERRIZAJE SUAVE\n%{multijugador}",
+  "smooth": "¡ESQUEMA!\n%{multijugador}",
+  "shareScore": "Compartir puntuación",
+  "inviteFriends": "Invitar a los amigos",
+  "shareScoreText": "¡Mi mejor puntuación es %{bestScore}! ¡Intenta superarme!",
+  "inviteFriendsText": "¡Mi mejor puntuación es %{bestScore}! ¿Puedes hacerlo mejor?",
+  "comingSoon": "próximamente"
+}

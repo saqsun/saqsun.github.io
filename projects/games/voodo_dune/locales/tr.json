@@ -1,0 +1,17 @@
+{
+  "tutorial1": "bekletme = hız",
+  "tutorial2": "serbest bırakma = hava",
+  "tutorial3": "tut = dalış",
+  "tapToContinue": "devam etmek için dokunun",
+  "watchAnAdTo": "için bir reklam izleyin",
+  "revive": "CANLANDIR",
+  "toTheMoon": "AY'A...\n%{multiplayer}",
+  "andBeyond": "... VE ÖTESİ!\n%{multiplayer}",
+  "smoothLanding": "PÜRÜZSÜZ İNİŞ\n%{multiplayer}",
+  "smooth": "SMOOTH!\n%{multiplayer}",
+  "shareScore": "Puan Paylaş",
+  "inviteFriends": "Arkadaşlarınızı Davet Edin",
+  "shareScoreText": "En iyi skorum %{bestScore}! Beni geçmeye çalışın!",
+  "inviteFriendsText": "En iyi skorum %{bestScore}! Daha iyisini yapabilir misin?",
+  "comingSoon": "çok yakında"
+}

@@ -1,0 +1,17 @@
+{
+  "tutorial1": "Halten = Geschwindigkeit",
+  "tutorial2": "Freigabe = Luft",
+  "tutorial3": "halten = tauchen",
+  "tapToContinue": "zum Fortfahren antippen",
+  "watchAnAdTo": "einen Werbespot ansehen, um",
+  "revive": "wiederbeleben",
+  "toTheMoon": "ZUM MOND...\n%{multiplayer}",
+  "andBeyond": "... AND BEYOND!\n%{multiplayer}",
+  "smoothLanding": "GLEICHZEITIGE LANDUNG\n%{multiplayer}",
+  "smooth": "SMOOTH!\n%{multiplayer}",
+  "shareScore": "Ergebnis teilen",
+  "inviteFriends": "Freunde einladen",
+  "shareScoreText": "Meine beste Punktzahl ist %{bestScore}! Versuche, mich zu schlagen!",
+  "inviteFriendsText": "Mein bestes Ergebnis ist %{bestScore}! Kannst du es besser machen?",
+  "comingSoon": "demnächst"
+}

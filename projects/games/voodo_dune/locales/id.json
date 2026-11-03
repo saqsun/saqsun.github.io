@@ -1,0 +1,17 @@
+{
+  "tutorial1": "tahan = kecepatan",
+  "tutorial2": "pelepasan = udara",
+  "tutorial3": "tahan = menyelam",
+  "tapToContinue": "ketuk untuk melanjutkan",
+  "watchAnAdTo": "menonton iklan untuk",
+  "revive": "menghidupkan kembali",
+  "toTheMoon": "KE BULAN...\n%{multiplayer}",
+  "andBeyond": "... DAN LEBIH DARI ITU!\n%{multiplayer}",
+  "smoothLanding": "PENDARATAN HALUS\n%{multiplayer}",
+  "smooth": "HALUS!\n%{multiplayer}",
+  "shareScore": "Bagikan Skor",
+  "inviteFriends": "Undang Teman",
+  "shareScoreText": "Skor terbaik saya adalah %{bestScore}! Cobalah untuk mengalahkan saya!",
+  "inviteFriendsText": "Skor terbaik saya adalah %{bestScore}! Dapatkah Anda melakukannya lebih baik?",
+  "comingSoon": "segera hadir"
+}

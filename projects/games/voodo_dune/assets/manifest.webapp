@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "name": "Dune!",
+  "description": "Jump above the line to score, but beware! The higher you get, the harder the landing will be! Don't crash and keep it smooth!",
+  "icons": {
+    "60": "firefox_app_60x60.png",
+    "128": "firefox_app_128x128.png",
+    "512": "firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "armathai",
+    "url": null
+  }
+}

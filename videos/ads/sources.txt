@@ -1,0 +1,19 @@
+Playable-ad previews recorded locally on 2026-10-30 from the original demos in public/projects/playable-ads/.
+The source demo URLs remain in src/data/AdsData.ts.
+
+Canvas recordings of the demos' opening scenes and animated tutorials; not simulated footage.
+Silent H.264 MP4, 1200 x 700, 24 fps, approximately 6–8 seconds each.
+Full canvas aspect ratio preserved, with padding if required.
+JPEG poster frames are extracted from the same recordings.
+
+Temporary capture instrumentation and the recording server were kept outside the repository.
+
+Mobile variants (*.mobile.mp4): derived from the matching original preview; 720x420, H.264 CRF 28, 24fps, no audio, fast-start metadata. Generated 2026-10-30.
+
+Poster refresh 2026-10-30: JPEG posters extracted from the first decoded frame of each active desktop MP4 (1200x700), JPEG quality 2. Mobile variants share the same timeline and composition.
+
+aarki_ccsag_p2.mp4: removed 30/24 seconds of the opening (30 frames); regenerated mobile variant and first-frame poster on 2026-10-30.
+
+Loop polish 2026-10-30: rotated each clip by 12 frames and blended the final 12 frames into the original opening with a 0.5-second crossfade. Mobile encodes and first-frame posters regenerated from the loop masters.
+
+Image optimization 2026-10-30: first-frame JPEG posters converted to WebP at quality 86; dimensions and composition unchanged.

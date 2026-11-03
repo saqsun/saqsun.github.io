@@ -1,0 +1,17 @@
+{
+  "tutorial1": "удержание = скорость",
+  "tutorial2": "выпуск = воздух",
+  "tutorial3": "держать = погружение",
+  "tapToContinue": "нажмите, чтобы продолжить",
+  "watchAnAdTo": "смотреть рекламу, чтобы",
+  "revive": "оживить",
+  "toTheMoon": "НА ЛУНУ...\n%{multiplayer}",
+  "andBeyond": "... И ДАЛЬШЕ!\n%{multiplayer}",
+  "smoothLanding": "ГЛАДКАЯ ПОСАДКА\n%{multiplayer}",
+  "smooth": "МЯГКО!\n%{multiplayer}",
+  "shareScore": "Оценка доли",
+  "inviteFriends": "Пригласить друзей",
+  "shareScoreText": "Мой лучший результат - %{bestScore}! Попробуйте победить меня!",
+  "inviteFriendsText": "Мой лучший результат - %{bestScore}! Можете ли вы сделать лучше?",
+  "comingSoon": "скоро"
+}

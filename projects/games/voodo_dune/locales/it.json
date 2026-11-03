@@ -1,0 +1,17 @@
+{
+  "tutorial1": "attesa = velocità",
+  "tutorial2": "rilascio = aria",
+  "tutorial3": "attesa = immersione",
+  "tapToContinue": "toccare per continuare",
+  "watchAnAdTo": "guardare una pubblicità per",
+  "revive": "rivivere",
+  "toTheMoon": "VERSO LA LUNA...\n%{multiplayer}",
+  "andBeyond": "... E OLTRE!\n%{multiplayer}",
+  "smoothLanding": "ATTERRAGGIO MORBIDO\n%{multiplayer}",
+  "smooth": "LISCIO!\n%{multiplayer}",
+  "shareScore": "Punteggio della quota",
+  "inviteFriends": "Invitare gli amici",
+  "shareScoreText": "Il mio miglior punteggio è %{bestScore}! Prova a battermi!",
+  "inviteFriendsText": "Il mio miglior punteggio è %{bestScore}! Puoi fare di meglio?",
+  "comingSoon": "in arrivo"
+}

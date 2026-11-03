@@ -1,0 +1,17 @@
+{
+  "tutorial1": "espera = velocidade",
+  "tutorial2": "libertação = ar",
+  "tutorial3": "hold = mergulho",
+  "tapToContinue": "toque para continuar",
+  "watchAnAdTo": "ver um anúncio para",
+  "revive": "reanimar",
+  "toTheMoon": "À LUA...\n%{multiplayer}",
+  "andBeyond": "... ... E BEYOND!\n%{multiplayer}",
+  "smoothLanding": "TERRENOS SMOOTH\n%{multiplayer}",
+  "smooth": "SMOOTH!\n%{multiplayer}",
+  "shareScore": "Partilhar Pontuação",
+  "inviteFriends": "Convidar amigos",
+  "shareScoreText": "A minha melhor pontuação é %{bestScore}! Tentem vencer-me!",
+  "inviteFriendsText": "A minha melhor pontuação é %{bestScore}! Consegues fazer melhor?",
+  "comingSoon": "em breve"
+}

@@ -1,0 +1,1 @@
+Active game cover WebP images are first-frame video posters, extracted 2026-10-30. See public/videos/games/sources.txt for gameplay sources. Earlier AI-expanded covers have been replaced.

@@ -1,0 +1,20 @@
+Recorded 2026-10-30 from the project's local demo builds using browser canvas capture.
+
+reparticle-effects.mp4 — Galaxy, Fire Plume, Coin Fountain, and Magical aura effects, WebGL2 renderer.
+Four recorded segments with brief fade transitions; 19.2-second loop.
+Source: https://github.com/reparticlejs/reparticle
+Demo build: examples/demo/dist
+Centered detail crop of the actual particle animation.
+
+Preview: 1200 x 700, 24 fps, silent H.264 MP4.
+Matching JPEG poster extracted from the recording.
+
+Mobile variants (*.mobile.mp4): derived from the matching original preview; 720x420, H.264 CRF 28, 24fps, no audio, fast-start metadata. Generated 2026-10-30.
+
+Poster refresh 2026-10-30: JPEG posters extracted from the first decoded frame of each active desktop MP4 (1200x700), JPEG quality 2. Mobile variants share the same timeline and composition.
+
+reparticle-effects.mp4: removed 8/24 seconds of the opening (8 frames); regenerated mobile variant and first-frame poster on 2026-10-30.
+
+Loop polish 2026-10-30: rotated each clip by 12 frames and blended the final 12 frames into the original opening with a 0.5-second crossfade. Mobile encodes and first-frame posters regenerated from the loop masters.
+
+Image optimization 2026-10-30: first-frame JPEG posters converted to WebP at quality 86; dimensions and composition unchanged.
